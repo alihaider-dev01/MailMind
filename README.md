@@ -6,7 +6,7 @@
 
 ## 🌐 Live Demo
 
-🔗 [View Live Site](https://alihaider-dev01.github.io/MailMind/)
+🔗 [View Live Site](https://https://msohaib-dev.github.io/MailMind/)
 
 ---
 
